@@ -2,6 +2,8 @@
 
 Just a simple hat to connect a USR-TCP232-T2 TTL to the CC26X2R1
 
+[Gerber-Files](https://github.com/klein0r/pcb-cc26x2r1-hat/releases)
+
 ## Preview
 
 ![PCB Preview](https://raw.githubusercontent.com/klein0r/pcb-cc26x2r1-hat/master/preview.png)
