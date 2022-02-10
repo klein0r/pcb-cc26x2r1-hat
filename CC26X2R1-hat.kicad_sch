@@ -6,8 +6,8 @@
 
   (title_block
     (title "CC26X2R1 HAT")
-    (date "2022-01-29")
-    (rev "0.1")
+    (date "2022-02-10")
+    (rev "0.2")
     (company "haus-automatisierung.com")
     (comment 1 "Matthias Kleine")
   )
