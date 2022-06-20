@@ -1,6 +1,6 @@
 # CC26X2R1 Hat
 
-Just a simple hat to connect a [USR-TCP232-T2](https://s.click.aliexpress.com/e/_ATBwsV) TTL to the [CC26X2R1](https://www.ti.com/tool/LAUNCHXL-CC26X2R1)
+Just a simple hat to connect a [USR-TCP232-T2](https://haus-auto.com/p/ali/TCPSerialAdapter) TTL to the [CC26X2R1](https://www.ti.com/tool/LAUNCHXL-CC26X2R1)
 
 [Gerber-Files](https://github.com/klein0r/pcb-cc26x2r1-hat/releases)
 
@@ -12,7 +12,7 @@ Just a simple hat to connect a [USR-TCP232-T2](https://s.click.aliexpress.com/e/
 
 ## Parts
 
-- U1: [USR-TCP232-T2](https://s.click.aliexpress.com/e/_ATBwsV)
+- U1: [USR-TCP232-T2](https://haus-auto.com/p/ali/TCPSerialAdapter)
 - U2: Texas Instruments CC26X2R1
 
 ## License
