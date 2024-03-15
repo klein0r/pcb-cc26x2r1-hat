@@ -19,7 +19,7 @@ Just a simple hat to connect a [USR-TCP232-T2](https://haus-auto.com/p/ali/TCPSe
 
 The MIT License (MIT)
 
-Copyright (c) 2022 Matthias Kleine <info@haus-automatisierung.com>
+Copyright (c) 2024 Matthias Kleine <info@haus-automatisierung.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
